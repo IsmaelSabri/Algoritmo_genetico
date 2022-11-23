@@ -1,7 +1,7 @@
 # Algoritmo_genetico
 Genetic algorithm
 
-Java implementation of the algorithm from page 16 of the book "Introduction to Genetic Algorithms and Genetic Programming" used to maximize or minimize a function in a given interval. 
+Java implementation algorithm from page 16 of the book "Introduction to Genetic Algorithms and Genetic Programming" used to maximize or minimize a function in a given interval. 
 
 ![alt text](https://github.com/IsmaelSabri/Algoritmo_genetico/blob/master/img.png?raw=true)
 
